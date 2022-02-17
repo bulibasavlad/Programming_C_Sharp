@@ -23,11 +23,5 @@ namespace CSharpPractice.OOP.abstractConcept.Interfaces
             Console.WriteLine("invata C#");
            
         }
-
-
-
-
-
-
     }
 }
