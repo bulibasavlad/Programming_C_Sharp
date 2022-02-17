@@ -27,6 +27,10 @@ namespace CSharpPractice.OOP.abstractConcept.abstractClass
             sa1.Munceste();
             sa1.DetaliiPersoana();
 
+
+
+
+
         }
 
 
